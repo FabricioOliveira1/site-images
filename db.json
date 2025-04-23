@@ -82,7 +82,7 @@
     "backImage": "calculadora.png"
   },
       {
-    "id": 1,
+    "id": 7,
     "name": "Alura Books",
     "description": "Projeto realizado pela escola Alura, onde foi desenvolvido uma pagina de catálogo de eBooks fictícia, revendo conceitos de HTML e CSS",
     "languages": [
@@ -94,7 +94,7 @@
     "backImage": "alura-books.png"
   },
   {
-    "id": 2,
+    "id": 8,
     "name": "Alura Plus",
     "description": "Alura Plus é um projeto clonado desenvolvido durante o curso da Alura para praticar HTML e CSS basico. e revisar coinceitos. Layout e desing retirado de FIGMA.",
     "languages": [
@@ -106,7 +106,7 @@
     "backImage": "alura-plus.png"
   },
   {
-    "id": 3,
+    "id": 9,
     "name": "Ignite Timer",
     "description": "Ignite Timer é um temporizador, no estilo de estudo Pomodoro com histórico, cadastro e status de tarefas.",
     "languages": [
@@ -121,7 +121,7 @@
     "backImage": "ignite-timer.png"
   },
   {
-    "id": 4,
+    "id": 10,
     "name": "DT Money",
     "description": "Dtmoney é um projeto de registro de transações monetárias desenvolvido no curso de aceleração Ignite da Rockeseat.",
     "languages": [
@@ -136,7 +136,7 @@
     "backImage": "dt-money.png"
   },
   {
-    "id": 5,
+    "id": 11,
     "name": "Flappy Bird",
     "description": "Cópia do jogo Flappy Bird desenvolvido durante Curso Web moderno.",
     "languages": [
@@ -149,7 +149,7 @@
     "backImage": "flappy-bird.png"
   },
   {
-    "id": 6,
+    "id": 12,
     "name": "Calculadora",
     "description": "Cópia de Calculadora iPhone desenvolvido durante Curso Web moderno.",
     "languages": [
